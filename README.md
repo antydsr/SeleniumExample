@@ -1,3 +1,5 @@
+Project forked for learning purposes (github/selenium) from atosorigin/SeleniumExample
+
 SeleniumExample - Using Selenium with C#.NET
 ===============
 
